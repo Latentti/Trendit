@@ -8,5 +8,5 @@ Mielenkiintoisia tutkimusaiheita esimerkiksi opiskelijoiden päättötöiden aih
 * [Low-Code -alustojen Hyödyntäminen Liiketoiminnan Prosessien Digitalisoinnissa ja Optimoinnissa Yrityksissä](https://github.com/Latentti/Trendit/blob/main/low-code.md)
 * [Mikroapplikaatioiden Kehittäminen ja Hyödyntäminen Organisaation Sisäisessä Viestinnässä ja Prosessien Hallinnassa](https://github.com/Latentti/Trendit/blob/main/microApplications.md)
 * [Käyttöliittymäsuunnittelun Parhaat Käytännöt: Tehokkaiden ja Käyttäjäystävällisten Digitaalisten Tuotteiden Luominen](https://github.com/Latentti/Trendit/blob/main/best-practices-ui-design.md)
-* [Yrityksen Räätälöityjen Sovellusten Päivittäminen: Strategiat, Parhaat Käytännöt ja Riskienhallinta]()
+* [Yrityksen Räätälöityjen Sovellusten Päivittäminen: Strategiat, Parhaat Käytännöt ja Riskienhallinta](https://github.com/Latentti/Trendit/blob/main/software-maintenance.md)
 
