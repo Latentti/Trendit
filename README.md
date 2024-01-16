@@ -11,3 +11,4 @@ Mielenkiintoisia tutkimusaiheita esimerkiksi opiskelijoiden päättötöiden aih
 * [Yrityksen Räätälöityjen Sovellusten Päivittäminen: Strategiat, Parhaat Käytännöt ja Riskienhallinta](https://github.com/Latentti/Trendit/blob/main/software-maintenance.md)
 * [Robotic Process Automation (RPA) Tehokkuuden ja Tuottavuuden Parantajana: Strategiat, Sovellukset ja Haasteet](https://github.com/Latentti/Trendit/blob/main/RPA.md)
 * [Moderni Front-End Kehitys: Uusimpien Teknologioiden ja Suuntauksien Hyödyntäminen Web- ja Mobiilisovelluksissa](https://github.com/Latentti/Trendit/blob/main/fe-development.md)
+* [Moderni Back-End Kehitys: Uusimpien Teknologioiden ja Arkkitehtuurimallien Hyödyntäminen Palvelinpohjaisissa Sovelluksissa](https://github.com/Latentti/Trendit/blob/main/be-development.md)
