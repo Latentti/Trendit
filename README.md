@@ -13,3 +13,4 @@ Mielenkiintoisia tutkimusaiheita esimerkiksi opiskelijoiden päättötöiden aih
 * [Moderni Front-End Kehitys: Uusimpien Teknologioiden ja Suuntauksien Hyödyntäminen Web- ja Mobiilisovelluksissa](https://github.com/Latentti/Trendit/blob/main/fe-development.md)
 * [Moderni Back-End Kehitys: Uusimpien Teknologioiden ja Arkkitehtuurimallien Hyödyntäminen Palvelinpohjaisissa Sovelluksissa](https://github.com/Latentti/Trendit/blob/main/be-development.md)
 * [Platform as Code: Infrastruktuurin Hallinnan Muutos ja Automaatio Modernissa Ohjelmistokehityksessä](https://github.com/Latentti/Trendit/blob/main/platform-as-a-code.md)
+* [React Sovellusten Turvallinen Ylläpito: Parhaat Käytännöt, Haasteet ja Ratkaisut](https://github.com/Latentti/Trendit/blob/main/react-maintenance.md)
