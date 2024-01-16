@@ -9,4 +9,4 @@ Mielenkiintoisia tutkimusaiheita esimerkiksi opiskelijoiden päättötöiden aih
 * [Mikroapplikaatioiden Kehittäminen ja Hyödyntäminen Organisaation Sisäisessä Viestinnässä ja Prosessien Hallinnassa](https://github.com/Latentti/Trendit/blob/main/microApplications.md)
 * [Käyttöliittymäsuunnittelun Parhaat Käytännöt: Tehokkaiden ja Käyttäjäystävällisten Digitaalisten Tuotteiden Luominen](https://github.com/Latentti/Trendit/blob/main/best-practices-ui-design.md)
 * [Yrityksen Räätälöityjen Sovellusten Päivittäminen: Strategiat, Parhaat Käytännöt ja Riskienhallinta](https://github.com/Latentti/Trendit/blob/main/software-maintenance.md)
-
+* [Robotic Process Automation (RPA) Tehokkuuden ja Tuottavuuden Parantajana: Strategiat, Sovellukset ja Haasteet](https://github.com/Latentti/Trendit/blob/main/RPA.md)
