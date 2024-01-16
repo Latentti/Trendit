@@ -21,4 +21,3 @@ Tutkimuksesi voisi kattaa seuraavia näkökulmia:
  Apps -alustan Tulevaisuuden Näkymät ja Kehityssuunnat**: Pohdi, miten Power Apps -alusta voi kehittyä tulevaisuudessa ja miten se voi vaikuttaa digitaalisen sovelluskehityksen maisemaan, erityisesti low-code- ja no-code-ratkaisujen osalta.
 
 Tämä aihe tarjoaa mahdollisuuden syventyä Microsoft Power Apps -alustan maailmaan ja sen tarjoamiin mahdollisuuksiin yritysten digitaalisissa muutosprosesseissa. Se on erityisen relevantti, kun otetaan huomioon yritysten kasvava tarve digitalisoida prosessejaan ja luoda räätälöityjä sovellusratkaisuja nopeasti ja tehokkaasti. Lisäksi, Power Apps -alustan tutkiminen voi tarjota arvokkaita oivalluksia ja taitoja, jotka ovat hyödyllisiä sekä akateemisessa että ammatillisessa kontekstissa, varsinkin low-code-kehityksen kasvavassa suosiossa.
-![image](https://github.com/Latentti/Trendit/assets/78440200/f83e5b28-f217-4dcb-9513-def3ba13dddb)
