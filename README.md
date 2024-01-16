@@ -1,0 +1,2 @@
+# Trendit
+Mielenkiintoisia tutkimusaiheita esimerkiksi opiskelijoiden päättötöiden aiheiksi
